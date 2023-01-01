@@ -1,0 +1,25 @@
+{
+ "baseUrl":"support/slwebview_files",
+ "homeHid":1,
+ "initialElement":"",
+ "sections":[
+  {
+   "hid":1,
+   "sid":"angular_ctrl",
+   "name":"angular_ctrl",
+   "fullname":"angular_ctrl",
+   "label":"angular_ctrl",
+   "parent":0,
+   "descendants":[
+   ],
+   "hierarchyUrl":"support/slwebview_files/angular_ctrl_h_1.json",
+   "backingUrl":"support/slwebview_files/angular_ctrl_m.json"
+  }
+ ],
+ "optViews":[
+ ],
+ "display":{
+  "informer":false
+ },
+ "iconsUrl":"support/slwebview_files/angular_ctrl_icons.css"
+}
